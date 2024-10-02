@@ -30,3 +30,4 @@ switch nargin
         v = nom*[1+tol1;1+tol2];
 end
 
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

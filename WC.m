@@ -103,3 +103,5 @@ if nargout>=3
         stats.spread = stats.max - stats.min;
     end
 end
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

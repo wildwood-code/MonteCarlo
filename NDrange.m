@@ -22,3 +22,5 @@ mean = 0.5*(vmax+vmin);
 delta = vmax-mean;
 
 S = struct('TYPE','ND','MEAN',mean,'SIGMA',delta/3.0);
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

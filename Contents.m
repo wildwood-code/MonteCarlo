@@ -23,4 +23,4 @@
 %   wc may also be a scalar or vector (may use linspace for vector)
 %
 
-% Kerry S. Martin, martin@wild-wood.net
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

@@ -23,3 +23,4 @@ switch nargin
         v = [val1;val2];
 end
 
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

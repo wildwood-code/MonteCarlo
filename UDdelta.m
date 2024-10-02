@@ -28,3 +28,5 @@ switch nargin
 end
 
 S = struct('TYPE','UD','MIN',v(1),'MAX',v(2));
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

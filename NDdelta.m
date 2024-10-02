@@ -17,3 +17,5 @@ elseif del<=0
 end
 
 S = struct('TYPE','ND','MEAN',mean,'SIGMA',del/3.0);
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

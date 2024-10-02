@@ -11,3 +11,5 @@ if ~isscalar(val1) || ~isscalar(val2)
 end
 
 S = struct('TYPE','UD','MIN',val1,'MAX',val2);
+
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net

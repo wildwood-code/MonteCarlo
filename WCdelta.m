@@ -30,3 +30,4 @@ switch nargin
         v = [nom+del1;nom+del2];
 end
 
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net
